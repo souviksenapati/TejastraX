@@ -47,11 +47,11 @@ Set the following environment variable:
 3. Set `GEMINI_API_KEY` in Space settings
 4. The API will be available at `https://your-space.hf.space/api/hackrx/run`
 
-### Vercel
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run `vercel` in project directory
+### Netlify
+1. Push code to GitHub
+2. Connect repository to Netlify
 3. Set `GEMINI_API_KEY` environment variable
-4. Deploy with `vercel --prod`
+4. Deploy automatically
 
 ## Local Development
 
